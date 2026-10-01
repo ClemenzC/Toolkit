@@ -6,4 +6,4 @@ usage:
     --model <model name>     to select a LLM
     --content <content>      to describe a specified content
 
-author: Fanh.
+author: ClemenzC.
